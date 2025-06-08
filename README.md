@@ -1,5 +1,5 @@
-# ReciboPagamento
-Recibo Pagamento Autônomo (RPA)
+# Recibo Pagamento Autônomo (RPA)
+
 Este projeto tem como objetivo facilitar o controle e o cálculo de pagamentos realizados a prestadores de serviço autônomos por meio de Recibo de Pagamento a Autônomo (RPA). A planilha permite registrar os dados de cada pagamento, calcular automaticamente os descontos obrigatórios e fornecer um resumo consolidado dos valores ao longo do tempo.
 
 Funcionalidades
